@@ -1,0 +1,7 @@
+o SRP, ou Princípio da Responsabilidade Única.
+É um dos cinco princípios SOLID da programação orientada a objetos que se concentra em garantir que cada classe tenha uma única responsabilidade.cl
+A classe FileHandler tem uma única responsabilidade: lidar com a leitura e gravação de dados em arquivos. Isso significa que a classe não tem responsabilidade adicional, como manipular os dados ou lidar com outros tipos de operações de entrada e saída.
+
+Ao seguir o princípio SRP, podemos ter uma classe mais coesa e facilmente testável. Se precisarmos adicionar outras funcionalidades,
+podemos criar novas classes com responsabilidades separadas.
+
